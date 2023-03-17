@@ -1,7 +1,7 @@
 # project-event-management
 reference -populate
 
-Event Management System (NodeJs + MySQL/MongoDB)
+Event Management System (NodeJs +MongoDB)
 - USER
 1. Register (User can register)
 2. Login (User login)
